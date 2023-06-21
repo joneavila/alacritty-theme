@@ -1,0 +1,30 @@
+# Colors
+# Remedy Bright: https://github.com/robertrossmann/vscode-remedy
+colors:
+
+  # Default colors
+  primary:
+    background: '0xF9E3B9'
+    foreground: '0x533F17'
+
+  # Normal colors
+  normal:
+    black:   '0x3C3F45'
+    red:     '0xA54242'
+    green:   '0x8C9440'
+    yellow:  '0xDE935F'
+    blue:    '0x5F819D'
+    magenta: '0x85678F'
+    cyan:    '0x5E8D87'
+    white:   '0x899097'
+
+  # Bright colors
+  bright:
+    black:   '0x373B41'
+    red:     '0xCC6666'
+    green:   '0xB5BD68'
+    yellow:  '0xF0C674'
+    blue:    '0x81A2BE'
+    magenta: '0xB294BB'
+    cyan:    '0x8ABEB7'
+    white:   '0xC5C8C6'
